@@ -1,0 +1,16 @@
+.introduce_text{
+    font-family: Arial;
+    background-color: #34495e;
+    width: 300px;
+    padding: 20px;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%,-20%);
+}
+body {
+    font-family: "Roboto";
+    display: flex;
+    background-image: url("./images/sunset.jpg");
+    background-size: cover;
+}
